@@ -1,0 +1,14 @@
+.body_background
+{
+    background-color:greenyellow;
+}
+
+#output
+{
+    background:white;
+    border-radius: 10px;
+    border-top: 10px solid darkorange;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
